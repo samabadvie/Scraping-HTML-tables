@@ -1,0 +1,24 @@
+{
+  "name": "scraping-html-tables",
+  "version": "1.0.0",
+  "description": "Scraping HTML tables with Cheerio and Request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samabadvie/Scraping-HTML-tables.git"
+  },
+  "author": "Sama Badvie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samabadvie/Scraping-HTML-tables/issues"
+  },
+  "homepage": "https://github.com/samabadvie/Scraping-HTML-tables#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
